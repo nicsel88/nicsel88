@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi! I'm Nichola - welcome to my GitHub page! 👋
 
-<!--
-**nicsel88/nicsel88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a budding software developer with a background in chemical engineering and scientific research in both industry and academia. 🔭
 
-Here are some ideas to get you started:
+I am passionate about creative problem solving and innovation in the tech space, with a keen interest in mixed reality game development. ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently studying an Advanced Software Development course focussed on Front and Back End Development, Cloud Services, Artificial intelligence, DevOps Technologies and Automated Deployment Pipelines. 🌱
+
+I have had hands-on experience building applications using modern frontend frameworks and backend APIs, TypeScript (and JavaScript), AI and cloud services, SQL and NoSQL databases, Docker, and CI/CD pipeline technologies. 🤖
+
+📫 You can find me on:
+
+* [GitHub as @nicsel88 (you are here)](https://github.com/nicsel88)
+* [LinkedIn](https://linkedin.com/in/nichola-selway-0b115a29)
