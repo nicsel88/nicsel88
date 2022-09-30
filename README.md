@@ -1,6 +1,6 @@
 ### Hi! I'm Nichola - welcome to my GitHub page! 👋
 
-I'm a budding software developer with a background in chemical engineering and scientific research in both industry and academia. 🔭
+I'm a software developer with a background in chemical engineering and scientific research in both industry and academia. 🔭
 
 I am passionate about creative problem solving and innovation in the tech space, with a keen interest in mixed reality game development. ✨
 
