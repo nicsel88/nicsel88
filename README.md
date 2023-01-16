@@ -4,7 +4,7 @@ I'm a software developer with a background in chemical engineering and scientifi
 
 I am passionate about creative problem solving and innovation in the tech space, with a keen interest in mixed reality game development. ✨
 
-I am currently studying an Advanced Software Development course focussed on Front and Back End Development, Cloud Services, Artificial intelligence, DevOps Technologies and Automated Deployment Pipelines. 🌱
+I have completed an Advanced Software Development course focussed on Front and Back End Development, Cloud Services, Artificial intelligence, DevOps Technologies and Automated Deployment Pipelines. 🌱
 
 I have had hands-on experience building applications using modern frontend frameworks and backend APIs, TypeScript (and JavaScript), AI and cloud services, SQL and NoSQL databases, Docker, and CI/CD pipeline technologies. 🤖
 
